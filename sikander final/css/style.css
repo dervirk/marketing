@@ -1,0 +1,71 @@
+*{
+	box-sizing: border-box;
+}
+
+.header{
+	background-color: #3097d1;
+	padding: 10px;
+	word-spacing: 10px;
+}
+.logo1{
+  border-radius: 50%;
+}
+ body{
+ 	background-color: #f5f8fa;
+ }
+input{
+	text-align: left;
+	color: silver;
+	text-decoration-style: solid;
+	align-items: right;
+}
+h1{
+	font-size: 25px;
+
+}
+.navraj{
+
+	font-size: 15px;
+	text-align: left;
+	padding: 5px;
+}
+.sikander,.navraj,.simran,.anmol,.karma,.raman{
+	 border: 2px solid silver;
+  padding: 5px;
+  border-radius: 5px;
+	
+}
+.menu{
+	width:20%;
+	padding:40px;
+	background-color: #ffffff;
+	 float: left;
+
+}
+.main{
+	width:48%;
+	padding:10px;
+	float: center;
+	background-color: #ffffff;
+	border-radius: 3px;
+	float: left;
+}
+.Right{
+width:20%;
+padding:10px;
+background-color: #ffffff;
+float: left;
+}
+.Footer{
+width: 20%;
+float: left;
+
+}
+.logo2{
+	width:61px; 
+	vertical-align: middle;
+	margin-left: 58px;
+	position: relative;
+	margin-top: -32px;
+	color: black;
+}
